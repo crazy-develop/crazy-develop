@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi 👋, I’m Dushyant Saini<br>💻 A Computer Science student who loves building web projects<br>🚀 Interested in full-stack development and real-world problem solving<br>🛠️ Working with HTML, CSS, JavaScript, Node.js & MongoDB<br>🌱 Currently learning DSA and improving backend skills<br>🤝 Open to learning, collaboration, and new tech ideas
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedushyant_saini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dushyantsaini.whatin@gmail.com) 
